@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CooperDev-Code
 - 👀 I’m interested in anything IT
-- 🌱 I’m currently learning Python. 
-- 💞️ I love everything Powershell. 
+- 💞️ I love everything Powershell & Python
 - 📫 How to reach me mason@cooperdev.co.uk
 Twitter @_CooperDev
 
